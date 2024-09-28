@@ -1,5 +1,1 @@
 # Crop-Recomondation-System
-
-
-
-#YOGI
